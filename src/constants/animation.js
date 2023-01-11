@@ -1,0 +1,1 @@
+const scaleAnimation = 1.2
